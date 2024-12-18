@@ -1,11 +1,12 @@
 {
-    "name": "Ripen OS",
-    "short_name": "Ripen OS", 
-    "description": "RGOS is an open-sourced, web based OS Family built with just Vanilla HTML-CSS-JS.",
+    "name": "GameMacOS",
+    "short_name": "GameMacOS", 
+    "description": "GameVOS's os themed like macos!",
     "start_url": ".",
     "theme_color": "#ff7b00",
     "background_color": "#000000",
     "display": "standalone",
+    "id": "GameV6Beta",
     "icons":[
       {
         "src":"Assets/General/PWA/ripenOs-pwa-192.png",

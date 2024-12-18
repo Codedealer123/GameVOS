@@ -1,11 +1,12 @@
 {
-    "name": "Windows Ripen",
-    "short_name": "Win RGOS", 
-    "description": "Windows Ripen is an RGOS initiative open-sourced concept based on the Windows Operating System.",
+    "name": "GameVOS",
+    "short_name": "GameVOS", 
+    "description": "GameVOS's original version!",
     "start_url": ".",
     "theme_color": "#ff7b00",
     "background_color": "#000000",
     "display": "standalone",
+    "id": "GameV6Beta",
     "icons":[
       {
         "src":"Assets/PWA/winRipen-192.png",
